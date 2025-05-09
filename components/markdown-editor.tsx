@@ -219,6 +219,7 @@ export default function MarkdownEditor() {
           font-size: 0.875rem !important;
           line-height: 1.7 !important;
           display: block !important;
+          padding: 1em !important;
         }
 
         /* Fix for blockquote styling */
