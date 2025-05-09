@@ -28,8 +28,6 @@ function hello() {
 
 > This is a blockquote
 
-![Placeholder Image](/placeholder.svg?height=150&width=300)
-
 Enjoy writing markdown!
 `;
 
